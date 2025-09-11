@@ -19,3 +19,9 @@ public:
         return cnt;
     }
 };
+
+// 907 → 2104 → 1856 (subarray min/max mastery)
+
+// 845 → 978 (shape-based subarrays)
+
+// 3676 again (bowl count)
